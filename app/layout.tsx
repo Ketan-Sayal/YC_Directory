@@ -22,7 +22,7 @@ const workSans = localFont({
       style:"normal"
     },
     {
-      path:"./fonts/WorkSans-Semibold.ttf",
+      path:"./fonts/WorkSans-SemiBold.ttf",
       weight:"600",
       style:"normal"
     },
